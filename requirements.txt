@@ -1,0 +1,18 @@
+
+# orjson is a fast, correct JSON library
+orjson
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+tqdm
+requests
+
+# ML Model packages
+scikit-learn
+xgboost
+
+# Deployment
+flask
+waitress
